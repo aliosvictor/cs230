@@ -1,6 +1,6 @@
 # cs230
 
-Personal code for Stanford cs230. Feel free to contact me if you find anythin wrong.
+Personal code for Stanford cs230. Feel free to contact me if you find anything wrong.
 
 Here are some links you might refer to:
   
